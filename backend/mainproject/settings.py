@@ -115,3 +115,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # -----------------------------
 print("React build folder:", FRONTEND_BUILD_DIR)
 print("index.html exists:", os.path.exists(os.path.join(FRONTEND_BUILD_DIR, 'index.html')))
+
